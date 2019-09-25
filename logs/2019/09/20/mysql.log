@@ -1,0 +1,3 @@
+2019-09-20 02:46:35 [warning] SMProxy@Database config book write is not exists! (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:465)
+2019-09-20 02:46:35 [warning] SMProxy@Database config book write is not exists! (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:465)
+2019-09-20 02:51:54 [warning] Should call MySQLPool::init! (/Library/WebServer/Documents/ndomains/proxy/src/MysqlPool/MySQLPool.php:120)

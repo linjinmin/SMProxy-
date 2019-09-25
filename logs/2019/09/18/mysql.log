@@ -1,0 +1,2 @@
+2019-09-18 14:14:33 [warning] SMProxy@Database config book write is not exists! (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:450)
+2019-09-18 14:23:15 [warning] 0.0.0.0:3366SQLSTATE[HY000] [2002] Operation timed out (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:291)

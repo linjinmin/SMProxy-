@@ -1,0 +1,1 @@
+2019-08-15 02:42:44 [warning] 0.0.0.0:3306SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:302)

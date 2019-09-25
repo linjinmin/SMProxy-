@@ -1,0 +1,1 @@
+2019-09-14 14:09:38 [warning] 0.0.0.0:3306SQLSTATE[42000] [1049] Unknown database 'dbname' (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:303)

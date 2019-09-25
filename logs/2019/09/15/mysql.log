@@ -1,0 +1,2 @@
+2019-09-15 02:59:40 [warning] 0.0.0.0:3366SQLSTATE[HY000] [2002] Operation timed out (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:304)
+2019-09-15 03:01:29 [warning] 0.0.0.0:3366SQLSTATE[HY000] [2002] Operation timed out (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:304)

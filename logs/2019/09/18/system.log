@@ -1,0 +1,66 @@
+2019-09-18 14:10:50 [info] Worker started!
+2019-09-18 14:11:31 [info] Worker started!
+2019-09-18 14:14:32 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:14:33 [info] Worker started!
+2019-09-18 14:15:39 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:15:40 [info] Worker started!
+2019-09-18 14:15:51 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:15:52 [info] Worker started!
+2019-09-18 14:16:06 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:16:07 [info] Worker started!
+2019-09-18 14:16:41 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:16:41 [info] Worker started!
+2019-09-18 14:18:06 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:18:07 [info] Worker started!
+2019-09-18 14:22:42 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:22:43 [info] Worker started!
+2019-09-18 14:22:48 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:22:49 [info] Worker started!
+2019-09-18 14:23:14 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:23:35 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:23:36 [info] Worker started!
+2019-09-18 14:54:36 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:54:37 [info] Worker started!
+2019-09-18 14:56:08 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:56:09 [info] Worker started!
+2019-09-18 14:56:18 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 14:56:18 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
+2019-09-18 14:56:18 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:56:19 [info] Worker started!
+2019-09-18 14:58:22 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 14:58:22 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
+2019-09-18 14:58:22 [warning] array_shift() expects parameter 1 to be array, null given (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:281)
+2019-09-18 14:58:23 [info] Worker started!
+2019-09-18 14:58:51 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 14:58:51 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
+2019-09-18 14:58:52 [info] Worker started!
+2019-09-18 14:59:54 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 14:59:54 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
+2019-09-18 15:07:29 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 15:07:29 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:29 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:97)
+2019-09-18 15:07:30 [error] Trying to get property 'auth' of non-object (/Library/WebServer/Documents/ndomains/proxy/src/SMProxyServer.php:102)
+2019-09-18 15:08:38 [error] Undefined offset: 1 (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:264)
+2019-09-18 15:08:38 [warning] Swoole\Process::kill(): swKill(0, 0) failed, Error: Undefined error: 0[0] (/Library/WebServer/Documents/ndomains/proxy/src/Command/ServerCommand.php:265)
